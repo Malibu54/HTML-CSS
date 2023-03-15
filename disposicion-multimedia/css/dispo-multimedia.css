@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.galeria {
+  width: 300vw;
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: wrap;
+  gap: 5px;
+}
