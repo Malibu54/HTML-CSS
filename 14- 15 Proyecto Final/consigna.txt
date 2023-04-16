@@ -1,0 +1,16 @@
+Página web a clonar: coinbase
+
+Tecnologías a usar:
+        1.HTML - Básico
+        2.CSS - SASS
+        3.Bootstrap (Responsive)
+        4.Iconos - Bootstrap icons
+
+Compoentes clave:
+    -Boton 'Get started' en todos sus tamanos
+    -Sign in
+    -NavBar
+    -Feature
+    -Description
+    -Create account
+    
