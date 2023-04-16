@@ -1,25 +1,24 @@
-button{
-    background-color: burlywood;
-    height: 50px;
-    width: 100px;
-    margin: 8px;
-    padding: 8px;
-    border-radius: 8px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+button {
+  background-color: burlywood;
+  height: 50px;
+  width: 100px;
+  margin: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-button:hover{
-    background-color: greenyellow;
-}
-
-span:hover{
-    color: white;
+button:hover {
+  background-color: greenyellow;
 }
 
-button::before{
-    content: "Pasa por encima";
+span:hover {
+  color: white;
+}
+
+button::before {
+  content: "Pasa por encima";
 }
 
 button:hover::before {
-    content: "¡Hecho!";
+  content: "¡Hecho!";
 }
-
